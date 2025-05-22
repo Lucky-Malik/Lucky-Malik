@@ -5,9 +5,6 @@
   <a href="https://www.linkedin.com/in/lokesh-malik-a89689280/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
   </a>
-  <a href="https://github.com/Lucky-Malik" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000?style=flat&logo=github" />
-  </a>
   <a href="https://codeforces.com/profile/_skadooshh_" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-orange?style=flat&logo=codeforces" />
   </a>
@@ -67,7 +64,7 @@
 ### 🧩 Beyond Code
 
 - 🎤 Delivered a technical talk on **Bitmasking** to 100+ students at Cybros (Coding Club)
-- 🧠 3rd place at **Manipal Quizzing Fest** in Biz & Gen categories
+- 🧠 Member of Quizzing Club (QUIZZINGA)
 - 🌱 Core team at **Sankalp**, empowering rural education through tech
 - 📢 Public Relations Lead at **PLINTH**, LNMIIT's annual techfest
 
