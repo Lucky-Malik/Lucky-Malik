@@ -25,22 +25,6 @@
 
 ---
 
-### 💼 Projects Showcase
-
-- 🔦 **Room Light Dimness Control**  
-  Embedded C + PWM + LDR sensor-based light control with real-time ambient adaptation.
-
-- 🚗 **Line-Following and Obstacle-Avoiding Robot**  
-  IR + Ultrasonic sensors + Arduino Uno for autonomous robotic navigation.
-
-- 🧠 **Sentiment Analysis of IMDb Reviews**  
-  Custom ANN built in TensorFlow with >91% test accuracy on real-world text data.
-
-- 💬 **Medical Domain LLM Chatbot** *(Ongoing)*  
-  Leveraging Ollama, OpenWebUI, and custom datasets to build a smart healthcare assistant.
-
----
-
 ### 🧠 Skills & Tools
 
 - **Languages:** Python, C/C++, Embedded C, VHDL, SQL, HTML/CSS  
@@ -49,24 +33,6 @@
 - **Domains:**  
   - Machine Learning (Supervised, Unsupervised, Deep Learning, Generative AI)  
   - Embedded Systems (PWM, ADC, UART, Interrupts, State Machines)
-
----
-
-### 🏆 Achievements
-
-- 🥇 CodeChef Global Rank **68** in Starters 158
-- 💡 Codeforces Max Rating: **1353 (Pupil)** | 550+ problems solved  
-- 🧠 **NTSE Scholar** | **Haryana Science Talent Search** Awardee  
-- 🇮🇳 **NDA Exam Qualified** — Cleared one of the toughest national-level exams
-
----
-
-### 🧩 Beyond Code
-
-- 🎤 Delivered a technical talk on **Bitmasking** to 100+ students at Cybros (Coding Club)
-- 🧠 Member of Quizzing Club (QUIZZINGA)
-- 🌱 Core team at **Sankalp**, empowering rural education through tech
-- 📢 Public Relations Lead at **PLINTH**, LNMIIT's annual techfest
 
 ---
 
