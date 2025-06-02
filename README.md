@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Lokesh Malik</h1>
-<h3 align="center">🚀 AI/ML Enthusiast | 🤖 Embedded Systems Innovator | 🎯 Competitive Programmer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lokesh-malik-a89689280/" target="_blank">
@@ -17,22 +16,24 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **B.Tech in ECE** from [LNMIIT Jaipur](https://www.lnmiit.ac.in/), graduating in 2027.
-- 🤖 Building smart **robots**, developing **AI models**, and creating meaningful **tech for society**.
-- 🔭 Currently working on a **Medical Domain Chatbot** with LLMs & Generative AI.
-- 🧠 Passionate about **deep learning**, **LLMs**, **embedded systems**, and everything that fuses **hardware and intelligence**.
-- 🧩 I believe in solving real-world problems with code and creativity.
+- 🌐 I'm an **aspiring full stack developer** exploring technologies like **React**, **Node.js**, and **MongoDB**.
+- 🤝 I want to actively contribute to **open source projects** and grow through community-driven learning.
+- 🧠 I’m also deeply passionate about **machine learning**, **deep learning**, **LLMs**, and **Generative AI**.
+- 🤖 I love building smart systems at the intersection of software and intelligence.
+- 🎓 B.Tech undergrad (2023–2027) constantly learning and creating tech that matters.
 
 ---
 
 ### 🧠 Skills & Tools
 
-- **Languages:** Python, C/C++, Embedded C, VHDL, SQL, HTML/CSS  
-- **ML/AI:** TensorFlow, PyTorch, scikit-learn, HuggingFace, LangChain  
+- **Languages:** Python, C/C++, Embedded C, SQL, HTML/CSS, JavaScript  
+- **Web Dev:** React, Node.js, Express, MongoDB, REST APIs  
+- **AI/ML:** TensorFlow, PyTorch, scikit-learn, HuggingFace, LangChain, Pandas  
 - **Tools:** Git, VS Code, MATLAB, Arduino IDE, Keil µVision, Vivado, Ollama  
 - **Domains:**  
-  - Machine Learning (Supervised, Unsupervised, Deep Learning, Generative AI)  
-  - Embedded Systems (PWM, ADC, UART, Interrupts, State Machines)
+  - Full Stack Development (MERN stack)  
+  - Machine Learning, Deep Learning, Generative AI  
+  - Embedded Systems (IoT, Sensors)
 
 ---
 
@@ -50,6 +51,7 @@
 - 📧 Email: [lokeshmalik2910@gmail.com](mailto:lokeshmalik2910@gmail.com)  
 - 📱 Phone: +91 8295912631  
 - 💼 LinkedIn: [lokesh-malik](https://www.linkedin.com/in/lokesh-malik-a89689280/)  
+
 ---
 
-> ⚡ "Driven by curiosity, powered by code, and inspired to build tech that matters."  
+> ⚡ "Driven by curiosity, powered by code, and inspired to build intelligent, impactful tech."
