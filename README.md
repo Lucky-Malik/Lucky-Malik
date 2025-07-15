@@ -16,7 +16,6 @@
 
 ### 👨‍💻 About Me
 
-- 🌐 I'm an **aspiring full stack developer** exploring technologies like **React**, **Node.js**, and **MongoDB**.
 - 🤝 I want to actively contribute to **open source projects** and grow through community-driven learning.
 - 🧠 I’m also deeply passionate about **machine learning**, **deep learning**, **LLMs**, and **Generative AI**.
 - 🤖 I love building smart systems at the intersection of software and intelligence.
