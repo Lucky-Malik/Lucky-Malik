@@ -14,28 +14,6 @@
 
 ---
 
-### 👨‍💻 About Me
-
-- 🤝 I want to actively contribute to **open source projects** and grow through community-driven learning.
-- 🧠 I’m also deeply passionate about **machine learning**, **deep learning**, **LLMs**, and **Generative AI**.
-- 🤖 I love building smart systems at the intersection of software and intelligence.
-- 🎓 B.Tech undergrad (2023–2027) constantly learning and creating tech that matters.
-
----
-
-### 🧠 Skills & Tools
-
-- **Languages:** Python, C/C++, Embedded C, SQL, HTML/CSS, JavaScript  
-- **Web Dev:** React, Node.js, Express, MongoDB, REST APIs  
-- **AI/ML:** TensorFlow, PyTorch, scikit-learn, HuggingFace, LangChain, Pandas  
-- **Tools:** Git, VS Code, MATLAB, Arduino IDE, Keil µVision, Vivado, Ollama  
-- **Domains:**  
-  - Full Stack Development (MERN stack)  
-  - Machine Learning, Deep Learning, Generative AI  
-  - Embedded Systems (IoT, Sensors)
-
----
-
 ### 📈 GitHub Stats
 
 <p align="center">
